@@ -8,6 +8,7 @@ STEPS ON HOW TO DO SO:
 
     train_data_dir = '/home/garima/Music/dogs-vs-cats/trainnew'
     validation_data_dir = '/home/garima/Music/dogs-vs-cats/testnew'
+
 2.Create your own model or load pre-trained ones.
 
 3. Save the model after training.
