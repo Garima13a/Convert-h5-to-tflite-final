@@ -4,7 +4,8 @@ This script converts a h5 model to tflite model, which can be used to run on and
 
 STEPS ON HOW TO DO SO:
 
-1. Replace data directory folder path 
+#1. 
+Replace data directory folder path 
 
     train_data_dir = '/home/garima/Music/dogs-vs-cats/trainnew'
     validation_data_dir = '/home/garima/Music/dogs-vs-cats/testnew'
