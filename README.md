@@ -21,3 +21,5 @@ Call TocoConverter to convert the newly created h5 file, via this command:
 converter = tf.lite.TocoConverter.from_keras_model_file('/home/garima/Music/dogs-vs-cats/models/fromsiraj.h5')
 
 # 5. Done!
+
+Note: In this repo "save-json.py" is not connected with the TFLite conversion at all. It is a part of the series that I'm writing on my medium blog : https://medium.com/@garimanishad
